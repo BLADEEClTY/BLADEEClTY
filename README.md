@@ -4,7 +4,5 @@
 
 <p>
  
-<p>
-  <a href="https://artfight.net/~DG">
-    attack me
+
 
